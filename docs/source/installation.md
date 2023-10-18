@@ -1,23 +1,23 @@
 Installation
 ============
 
-**my-package** supports Python >= 3.8.
+**Method-Annotation-Inspector** supports Python >= 3.8.
 
 ## Installing with `pip`
 
-**my-package** is available [on PyPI](https://pypi.org/project/my-package/). Just run
+**Method-Annotation-Inspector** is available [on PyPI](https://pypi.org/project/Method-Annotation-Inspector/). Just run
 
 ```bash
-pip install my-package
+pip install Method-Annotation-Inspector
 ```
 
 ## Installing from source
 
-To install **my-package** from source, first clone [the repository](https://github.com/allenai/python-package-template):
+To install **Method-Annotation-Inspector** from source, first clone [the repository](https://github.com/von_der_borch/Method-Annotation-Inspector):
 
 ```bash
-git clone https://github.com/allenai/python-package-template.git
-cd python-package-template
+git clone https://github.com/von_der_borch/Method-Annotation-Inspector.git
+cd Method-Annotation-Inspector
 ```
 
 Then run

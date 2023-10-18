@@ -1,4 +1,4 @@
-# **my-package**
+# **Method-Annotation-Inspector**
 
 ```{toctree}
 :maxdepth: 2
@@ -15,8 +15,8 @@ overview
 
 CHANGELOG
 CONTRIBUTING
-License <https://raw.githubusercontent.com/allenai/python-package-template/main/LICENSE>
-GitHub Repository <https://github.com/allenai/python-package-template>
+License <https://raw.githubusercontent.com/allenai/Method-Annotation-Inspector/main/LICENSE>
+GitHub Repository <https://github.com/von_der_borch/Method-Annotation-Inspector>
 ```
 
 ## Indices and tables
